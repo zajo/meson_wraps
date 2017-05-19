@@ -1,0 +1,10 @@
+[wrap-file]
+directory = zlib-1.2.8
+
+source_url = ftp://ftp.simplesystems.org/pub/libpng/png/src/libpng16/libpng-1.6.29.tar.xz
+source_filename = libpng-1.6.29.tar.xz
+source_hash = 4245b684e8fe829ebb76186327bb37ce5a639938b219882b53d64bd3cfc5f239
+
+patch_url = https://github.com/zajo/meson_wraps/blob/master/libpng/subprojects/libpng.tar.gz?raw=true
+patch_filename = libpng.tar.gz
+patch_hash = 2ba713ba8656ed3e64ce9e0a9948717affcbfda88b2cdb87c1335ec9010b6cbf
