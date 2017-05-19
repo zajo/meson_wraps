@@ -7,8 +7,9 @@ extern "C"
 int
 main()
 	{
-	lua_State * L=lua_newstate(0,0);
+	lua_State * L=luaL_newstate();
 	if( !L )
 		return 1;
 	lua_close(L);
+	return 0;
 	}
