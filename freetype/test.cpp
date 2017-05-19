@@ -7,6 +7,6 @@ main()
 	FT_Library l;
 	if( FT_Error error=FT_Init_FreeType( &l ) )
 		return 1;
-	FT_Done_FreeType(&l);
+	FT_Done_FreeType(l);
 	return 0;
 	}
