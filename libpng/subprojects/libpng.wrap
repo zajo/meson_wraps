@@ -7,4 +7,4 @@ source_hash = 4245b684e8fe829ebb76186327bb37ce5a639938b219882b53d64bd3cfc5f239
 
 patch_url = https://github.com/zajo/meson_wraps/blob/master/libpng/subprojects/libpng.tar.gz?raw=true
 patch_filename = libpng.tar.gz
-patch_hash = 39216b8c699980b0c68d14704aeda9728c5f239b209bb2a186292c6dc01522f8
+patch_hash = 58d45703902e7e2b6b83d2cc2ba2496a2bd8c3ff5b7162723dd8bbcef56519c9
