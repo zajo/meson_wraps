@@ -1,15 +1,10 @@
-extern "C"
-	{
-	#include <lua.h>
-	#include <lauxlib.h>
-	}
+#include "boost/regex.hpp"
 
 int
 main()
 	{
-	lua_State * L=luaL_newstate();
-	if( !L )
+	boost::regex r("aa");
+	if( !boost::regex_search("baa",r) )
 		return 1;
-	lua_close(L);
 	return 0;
 	}

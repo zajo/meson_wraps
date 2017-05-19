@@ -3,6 +3,6 @@
 int
 main( int argc, char const * argv [ ] )
 	{
-	boost::path p=argv[0];
+	boost::filesystem::path p=argv[0];
 	return 0;
 	}
