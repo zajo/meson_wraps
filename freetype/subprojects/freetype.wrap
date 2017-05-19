@@ -7,4 +7,4 @@ source_hash = 33a28fabac471891d0523033e99c0005b95e5618dc8ffa7fa47f9dadcacb1c9b
 
 patch_url = https://github.com/zajo/meson_wraps/blob/master/freetype/subprojects/freetype.tar.gz?raw=true
 patch_filename = freetype.tar.gz
-patch_hash = f02b66b47edd8cc7c657d029c43e1384864b0884f404b51588ace4f5782a6d0f
+patch_hash = 2505d7a0457c72b8987c23d22973fa084265c85a5c006ea4b1f85d3380f951db
