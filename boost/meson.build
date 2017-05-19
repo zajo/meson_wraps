@@ -1,0 +1,6 @@
+project('test','cpp')
+test('headers', executable('exe','test_headers.cpp',dependencies: [ subproject('boost').get_variable('headers') ] ) )
+test('system', executable('exe','test_system.cpp',dependencies: [ subproject('boost').get_variable('system') ] ) )
+test('filesystem', executable('exe','test_filesystem.cpp',dependencies: [ subproject('boost').get_variable('filesystem') ] ) )
+test('thread', executable('exe','test_thread.cpp',dependencies: [ subproject('boost').get_variable('thread') ] ) )
+test('regex', executable('exe','test_regex.cpp',dependencies: [ subproject('boost').get_variable('regex') ] ) )
