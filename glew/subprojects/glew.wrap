@@ -1,9 +1,9 @@
 [wrap-file]
 directory=glew-2.0.0
 
-source_url = https://sourceforge.net/projects/glew/files/glew/2.0.0/glew-2.0.0.tgz/download
-source_filename = glew.tgz
-source_hash = c572c30a4e64689c342ba1624130ac98936d7af90c3103f9ce12b8a0c5736764
+source_url = https://sourceforge.net/projects/glew/files/glew/2.0.0/glew-2.0.0.zip/download
+source_filename = glew-2.0.0.zip
+source_hash = cc88d2f70a185185eb050eb13789f498425fcd58230bfd65da496b8008f046f2
 
 patch_url = https://github.com/zajo/meson_wraps/blob/master/glew/subprojects/glew.zip?raw=true
 patch_filename = glew.zip
