@@ -1,3 +1,8 @@
+#ifndef _WIN32
+#error foo
+#endif
+
+
 #include "GL/glew.h"
 
 int
