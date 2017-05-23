@@ -1,0 +1,10 @@
+[wrap-file]
+directory=glew-2.0.0
+
+source_url = https://sourceforge.net/projects/glew/files/glew/2.0.0/glew-2.0.0.tgz/download
+source_filename = glew.tgz
+source_hash = c572c30a4e64689c342ba1624130ac98936d7af90c3103f9ce12b8a0c5736764
+
+patch_url = https://github.com/zajo/meson_wraps/blob/master/glew/subprojects/glew.zip?raw=true
+patch_filename = glew.zip
+patch_hash = b2a71f337c36af8027eeebcb6363853964dc15e7679791ce440d84365403645d
