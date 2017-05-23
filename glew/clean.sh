@@ -1,3 +1,3 @@
 rm -r subprojects/packagecache
-rm -r subprojects/lua-5.1.5
+rm -r subprojects/glew-2.0.0
 rm -r build
