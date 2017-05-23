@@ -1,16 +1,10 @@
-#ifndef _WIN32
-#error foo
-#endif
-
-
 #include "GL/glew.h"
 
 int
 main()
 	{
-	glewExperimental=GL_TRUE;
 	GLenum err=glewInit();
-	if(err!=GLEW_OK)
+	if(err==GLEW_OK) //Expected to fail because there is no current OpenGL context
 		return 1;
 	return 0;
 	}
