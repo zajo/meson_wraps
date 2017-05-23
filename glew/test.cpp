@@ -3,7 +3,7 @@
 int
 main()
 	{
-	glewExperimental=TRUE;
+	glewExperimental=GL_TRUE;
 	GLenum err=glewInit();
 	if(err!=GLEW_OK)
 		return 1;
