@@ -1,10 +1,6 @@
 [wrap-file]
-directory=lua-5.1.5
+directory=Maya-devkit
 
-source_url = http://www.lua.org/ftp/lua-5.1.5.tar.gz
-source_filename = lua-5.1.5.tar.gz
-source_hash = 2640fc56a795f29d28ef15e13c34a47e223960b0240e8cb0a82d9b0738695333
-
-patch_url = https://github.com/zajo/meson_wraps/blob/master/lua/subprojects/lua.tar.gz?raw=true
-patch_filename = lua.tar.gz
-patch_hash = b2a71f337c36af8027eeebcb6363853964dc15e7679791ce440d84365403645d
+source_url = https://github.com/zajo/meson_wraps/raw/master/Maya-devkit/subprojects/Maya-devkit.zip
+source_filename = Maya-devkit.zip
+source_hash = 83ca8ed3e83c44de3aa22efe5801a70cf2545e4cdc3f38dbdd39006fdc3148b5
