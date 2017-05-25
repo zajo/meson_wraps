@@ -1,4 +1,4 @@
 sh ./clean.sh
-meson.py build
+meson$1 build
 cd build
 ninja test
