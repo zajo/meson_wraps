@@ -3,4 +3,4 @@ directory=Maya-devkit
 
 source_url = https://github.com/zajo/meson_wraps/raw/master/Maya-devkit/subprojects/Maya-devkit.zip
 source_filename = Maya-devkit.zip
-source_hash = d8de144a35bd73e4cb0582122612aa17bccec024c469090a0b0f2d8eabf634c8
+source_hash = 77721a1d24dee04e021f7fa2cf41cd58e5219ad6653f6f5191bad83df622915f
