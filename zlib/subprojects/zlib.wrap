@@ -7,4 +7,4 @@ source_hash = 36658cb768a54c1d4dec43c3116c27ed893e88b02ecfcb44f2166f9c0b7f2a0d
 
 patch_url = https://github.com/zajo/meson_wraps/blob/master/zlib/subprojects/zlib.tar.gz?raw=true
 patch_filename = zlib.tar.gz
-patch_hash = 3afbb321e02f9e28f16cef95d331610fd313e98521ae66954bed86753afc58fc
+patch_hash = 2d6eb19c897873d950218cdd10b6dbce685689015fdc67e3602710988acfc2c3
