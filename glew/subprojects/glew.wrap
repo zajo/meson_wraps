@@ -7,4 +7,4 @@ source_hash = cc88d2f70a185185eb050eb13789f498425fcd58230bfd65da496b8008f046f2
 
 patch_url = https://github.com/zajo/meson_wraps/blob/master/glew/subprojects/glew.zip?raw=true
 patch_filename = glew.zip
-patch_hash = 0fd49e1480c66b03f2ee7ded58943fa042c1804a7378316ad5fa24077aacee72
+patch_hash = 3ab2f0d54a9dd4532492f60879fce06d0396caa36f8c627358efdfc21051b92c
