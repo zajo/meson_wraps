@@ -7,4 +7,4 @@ source_hash = 2640fc56a795f29d28ef15e13c34a47e223960b0240e8cb0a82d9b0738695333
 
 patch_url = https://github.com/zajo/meson_wraps/blob/master/lua/subprojects/lua.tar.gz?raw=true
 patch_filename = lua.tar.gz
-patch_hash = 7d24515e893e890cae95bf860bc8e3ede6782099e2347c17ec4f3c6af2c08892
+patch_hash = 51cd288c6ce32cd338e39cf9a1343dcb2ea9f05293055c96dcce87781d3b0afb
