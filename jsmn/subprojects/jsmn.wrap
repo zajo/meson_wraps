@@ -1,0 +1,8 @@
+[wrap-git]
+directory=jsmn
+url=https://github.com/zserge/jsmn.git
+revision=head
+
+patch_url = https://github.com/zajo/meson_wraps/blob/master/zlib/subprojects/jsmn.zip?raw=true
+patch_filename = jsmn.zip
+patch_hash = a688fc677778bb82ae1b880eea3ee743ae864e3db5ed2b9e866fbeb2a760b213
