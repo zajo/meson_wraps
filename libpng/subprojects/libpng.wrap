@@ -1,8 +1,8 @@
 [wrap-file]
-directory = libpng-1.6.29
+directory = libpng-1.6.47
 
-source_url = https://ftp.osuosl.org/pub/blfs/conglomeration/libpng/libpng-1.6.29.tar.xz
-source_filename = libpng-1.6.29.tar.xz
+source_url = http://prdownloads.sourceforge.net/libpng/libpng-1.6.47.tar.xz
+source_filename = libpng-1.6.47.tar.xz
 source_hash = 4245b684e8fe829ebb76186327bb37ce5a639938b219882b53d64bd3cfc5f239
 
 patch_url = https://github.com/zajo/meson_wraps/blob/master/libpng/subprojects/libpng.tar.gz?raw=true
