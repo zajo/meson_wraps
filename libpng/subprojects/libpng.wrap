@@ -3,7 +3,7 @@ directory = libpng-1.6.47
 
 source_url = http://prdownloads.sourceforge.net/libpng/libpng-1.6.47.tar.xz
 source_filename = libpng-1.6.47.tar.xz
-source_hash = 4245b684e8fe829ebb76186327bb37ce5a639938b219882b53d64bd3cfc5f239
+source_hash = b213cb381fbb1175327bd708a77aab708a05adde7b471bc267bd15ac99893631
 
 patch_url = https://github.com/zajo/meson_wraps/blob/master/libpng/subprojects/libpng.tar.gz?raw=true
 patch_filename = libpng.tar.gz
