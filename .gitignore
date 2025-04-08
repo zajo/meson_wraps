@@ -1,3 +1,4 @@
 */subprojects/*/*
 */build/*
 !*.wrap
+.DS_Store
